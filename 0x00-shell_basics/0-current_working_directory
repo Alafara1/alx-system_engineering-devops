@@ -1,2 +1,6 @@
-#!/bin/bash/tmp/correction/9238055178156573568839918272784489882710_5/205/157862/0x00-shell_basics
-/tmp/correction/9238055178156573568839918272784489882710_5/205/157862/0x00-shell_basics
+#!/bin/bash
+/root@4cbe70e8d3ac:/alx-system_engineering-devops# cd
+0x00-shell_basics
+root@4cbe70e8d3ac:/alx-system_engineering-devops/0x00-shell_basics# ls
+0-current_working_directory  README.md
+root@4cbe70e8d3ac:/alx-system_engineering-devops/0x00-shell_basics#
