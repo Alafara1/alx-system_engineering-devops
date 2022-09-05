@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oP '^[^:]+|.*:\K[^:]+(?=:[^:]+)' /etc/password
+grep /etc/passwd | cut -d':' -f 1,6
