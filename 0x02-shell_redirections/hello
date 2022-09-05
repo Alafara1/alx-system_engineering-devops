@@ -1,0 +1,33 @@
+total 56
+-rw-r--r-- 1 root root 32 Sep  4 23:16 0-hello_world
+-rw-r--r-- 1 root root 46 Sep  5 00:28 10-no_more_js
+-rw-r--r-- 1 root root 52 Sep  5 02:41 11-directories
+-rw-r--r-- 1 root root 30 Sep  5 02:58 12-newest_files
+-rw-r--r-- 1 root root 27 Sep  5 03:03 13-unique
+-rw-r--r-- 1 root root 28 Sep  4 23:14 1-confused_smiley
+-rw-r--r-- 1 root root 28 Sep  4 23:26 2-hellofile
+-rw-r--r-- 1 root root 39 Sep  4 23:34 3-twofiles
+-rw-r--r-- 1 root root 29 Sep  4 23:39 4-lastlines
+-rw-r--r-- 1 root root 29 Sep  4 23:42 5-firstlines
+-rw-r--r-- 1 root root 36 Sep  4 23:53 6-third_line
+-rw-r--r-- 1 root root 71 Sep  5 00:12 7-file
+-rw-r--r-- 1 root root 37 Sep  5 00:18 8-cwd_state
+-rw-r--r-- 1 root root 37 Sep  5 00:23 9-duplicate_last_line
+-rw-r--r-- 1 root root  0 Sep  5 03:08 hello
+-rw-r--r-- 1 root root  0 Sep  4 23:08 README.md
+0-hello_world
+10-no_more_js
+11-directories
+12-newest_files
+13-unique
+1-confused_smiley
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+7-file
+8-cwd_state
+9-duplicate_last_line
+hello
+README.md
