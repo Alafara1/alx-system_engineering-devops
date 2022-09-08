@@ -1,0 +1,23 @@
+total 4
+-rw-r--r-- 1 root root   0 Sep  6 23:15 aa
+-rw-r--r-- 1 root root   0 Sep  6 23:15 bb
+-rw-r--r-- 1 root root   0 Sep  6 23:15 cc
+-rw-r--r-- 1 root root   0 Sep  6 23:15 dd
+-rw-r--r-- 1 root root   0 Sep  6 23:15 ee
+-rw-r--r-- 1 root root   0 Sep  6 23:15 ff
+-rw-r--r-- 1 root root   0 Sep  6 23:32 file
+-rw-r--r-- 1 root root   0 Sep  6 23:15 gg
+-rw-r--r-- 1 root root   0 Sep  6 23:15 hh
+-rw-r--r-- 1 root root   0 Sep  6 23:32 iacta
+-rw-r--r-- 1 root root   0 Sep  6 23:15 ii
+-rw-r--r-- 1 root root   0 Sep  6 23:15 jj
+-rw-r--r-- 1 root root   0 Sep  6 23:15 kk
+-rw-r--r-- 1 root root   0 Sep  6 23:15 ll
+-rw-r--r-- 1 root root 803 Sep  6 23:29 ls_cwd_content
+-rw-r--r-- 1 root root   0 Sep  6 23:26 mm
+-rw-r--r-- 1 root root   0 Sep  6 23:26 mm nn xx zz
+-rw-r--r-- 1 root root   0 Sep  6 23:26 nn
+-rw-r--r-- 1 root root   0 Sep  6 23:26 xx
+-rw-r--r-- 1 root root   0 Sep  6 23:26 zz
+-rw-r--r-- 1 root root   0 Sep  6 23:26 zz
+-rw-r--r-- 1 root root   0 Sep  6 23:26 zz
